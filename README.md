@@ -27,4 +27,4 @@ This project aims to explore public sentiment and discussions on social media co
 
 - This line graph representa the number of tweets about Eskom Electrification sent per day of the year 2019.
 
-![](https://github.com/lesego-maponyane/Data_Science_Portfolio/blob/main/images/TweetsPerDay.png)
+![](https://github.com/lesego-maponyane/lesego-maponyane.github.io/blob/main/Images/TweetsPerDay.png)
