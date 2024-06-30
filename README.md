@@ -20,3 +20,7 @@ What excites me about data science:
 ![](https://github.com/lesego-maponyane/Data_Science_Portfolio/blob/main/images/Eskom%20power%20station.jpeg)
 
 This project aims to explore public sentiment and discussions on social media concerning Eskom power stations and electrification efforts across South Africa's provinces.
+
+- This graph depicts the Gauteng metrics: "Mean", "Median", "Std", "Min", and "Max"
+
+![](https://github.com/lesego-maponyane/Data_Science_Portfolio/blob/main/images/Graph_mean.png)
