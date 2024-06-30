@@ -23,7 +23,7 @@ This project aims to explore public sentiment and discussions on social media co
 
 - This graph depicts the Gauteng metrics: "Mean", "Median", "Std", "Min", and "Max"
 
-![](https://github.com/lesego-maponyane/Data_Science_Portfolio/blob/main/images/Graph_mean.png)
+![]([https://github.com/lesego-maponyane/lesego-maponyane.github.io/blob/main/Images/Graph_mean.png)
 
 - This line graph representa the number of tweets about Eskom Electrification sent per day of the year 2019.
 
